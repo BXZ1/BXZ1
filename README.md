@@ -1,9 +1,5 @@
 ![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake-dark.svg#gh-dark-mode-only)  
-  
-
-<br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -27,6 +23,6 @@
 <br/>  
 
 <br/><div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bxz1&theme=github-dark-blue&hide_border=true" /></div>  
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bxz1&theme=github-dark-blue&hide_border=true" width="500"/></div>
 
 <br />
