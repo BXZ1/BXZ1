@@ -1,7 +1,3 @@
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=5yxa88cgylpuk9mzhykjqchw4&cover_image=false&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
-
 ![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake-dark.svg#gh-dark-mode-only)  
   
@@ -30,11 +26,7 @@
 
 <br/>  
 
-
-## Github Stats  
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bxz1&theme=algolia&hide_border=true" width="550"/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=bxz1&theme=algolia&no-frame=true&row=1&column=3" width=550"/>
-</div>  
+<br/><div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=bxz1&theme=github-dark-blue&hide_border=true" /></div>  
 
 <br />
