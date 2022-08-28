@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake-dark.svg#gh-dark-mode-only)
