@@ -18,11 +18,6 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-</div>  
 
-<br/>  
-
-<br/><div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=bxz1&theme=github-dark-blue&hide_border=true" width="600"/></div>
-
-<br />
+<br/><img src="https://github-readme-streak-stats.herokuapp.com?user=bxz1&theme=github-dark-blue&hide_border=true" width="600"/>
+</div>
