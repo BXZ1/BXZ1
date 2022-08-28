@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/BXZ1/BXZ1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/BXZ1/BXZ1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
