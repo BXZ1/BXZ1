@@ -1,0 +1,16 @@
+name: Metrics
+on:
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Metrics embed
+        uses: lowlighter/metrics@v3.32
+        with:
+          # GitHub Personal Access Token
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GitHub username
+          user: BXZ1
+          plugin_repositories_pinned: yes
+          plugin_repositories_starred: yes
