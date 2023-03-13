@@ -30,6 +30,7 @@ jobs:
           base: activity, repositories, metadata
           base_indepth: yes
           config_display: large
+          config_order: achievements
           config_timezone: Africa/Algiers
           config_twemoji: yes
           plugin_achievements: yes
