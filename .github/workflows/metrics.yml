@@ -27,12 +27,10 @@ jobs:
           # Options
           user: BXZ1
           template: classic
-          base: activity, repositories, metadata
+          base: metadata
           base_indepth: yes
           config_display: large
-          config_order: achievements
           config_timezone: Africa/Algiers
-          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
