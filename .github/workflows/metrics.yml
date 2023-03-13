@@ -27,8 +27,7 @@ jobs:
           # Options
           user: BXZ1
           template: classic
-          base: metadata
-          base_indepth: yes
+          base: ""
           config_display: large
           config_timezone: Africa/Algiers
           plugin_achievements: yes
