@@ -1,5 +1,31 @@
+<img src="https://github.com/BXZ1/BXZ1/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/BXZ1/BXZ1/output/snake-dark.svg#gh-dark-mode-only)  
+
+
+
 
 ## Languages and Tools  
 <div align="center">  
