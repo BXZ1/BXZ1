@@ -57,11 +57,6 @@ jobs:
           plugin_lines_history_limit: 5
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_starlists: yes
-          plugin_starlists_limit: 8
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 0
-          plugin_starlists_shuffle_repositories: yes
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
