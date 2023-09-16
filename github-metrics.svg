@@ -19,7 +19,7 @@
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 102.6 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
-                        <li>Mostly active on Wednesday</li>
+                        <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
             </section>
@@ -40,7 +40,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ShadowMonster99/millennium-steam-patcher</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Apply steam skins Steam after the 2023-04-27 Chromium UI update https://discord.gg/MXMWEQKgJF</div>
@@ -74,7 +74,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        4
+                                        5
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -93,7 +93,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>infinitepower18/WSA-SystemControl</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Monitor WSA status and turn WSA on/off from the system tray</div>
@@ -146,7 +146,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hikari-no-yume/touchHLE</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">High-level emulator for iPhone OS apps</div>
@@ -199,7 +199,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chr233/ASFEnhance</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">ASF增强插件 / External commands for ASF</div>
@@ -266,7 +266,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.29158110882956 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="64.37645448323066 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -561,7 +561,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.88m out of 63.2m repositories</span>
+                                    <span class="gh">ranked 1.91m out of 68.7m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">9</div>
                                     </div>
