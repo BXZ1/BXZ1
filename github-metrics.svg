@@ -35,7 +35,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>streamlink/streamlink-twitch-gui</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A multi platform Twitch.tv browser for Streamlink</div>
@@ -88,7 +88,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lasuillard-s/raindrop-sync-chrome</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chrome browser extension for syncing bookmarks with Raindrop.</div>
@@ -141,7 +141,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dev-diaries41/smartscan</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Search images and videos offline using text or by reverse image search with on-device AI.</div>
@@ -194,7 +194,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>1999AZZAR/bash-firewall-script</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This script will help you block your program from internet access using the Windows firewall</div>
@@ -261,7 +261,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.0369609856262585 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.12183436002738 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -535,7 +535,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 4.05m out of 186m users</span>
+                                    <span class="gh">ranked 4.06m out of 186m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
